@@ -1,13 +1,13 @@
-# Open-Science-Community-in-Saudi
+# FIXME Project Name
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This is the repository where the all projects and activities of the Open Science Community in Saudi Arabia is documented and planned
+FIXME description about the Programme
 
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
-- Please follow our [contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/Open-Science-Community-in-Saudi/blob/main/CONTRIBUTING.md). 
+- Please follow our [FIXME - contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/FIXME/blob/main/CONTRIBUTING.md). 
 
 ## License
 
