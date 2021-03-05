@@ -15,6 +15,7 @@ In this repository, we document the steps and TODO list/suggestions for RLadies 
 - A presentation for newbies who will join the team
 - Advertisement on Twitter for social media/marketing volunteers
 - Apply to the [r-consortium](https://www.r-consortium.org/projects/call-for-proposals) grant to expand the R communiy in the MENA region
+- Zenodo and share materials in osf
 
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
