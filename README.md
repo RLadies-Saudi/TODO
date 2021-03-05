@@ -1,8 +1,19 @@
-# FIXME Project Name
+# R-Ladies Dammam (Saudi Arabia)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-FIXME description about the Programme
+In this repository, we document the steps and TODO list/suggestions for RLadies Chapter in Saudi Arabia (Dammam)
+
+#### TODO
+- Build a background for Zoom
+- A template for the introduction in the webinars
+- TODO list before every workshop
+- A template for the emails
+- A template for social media interaction
+- Collaborations with other teams on the RLadies or in Saudi Arabia
+- List of possible speakers
+- A presentation for newbies who will join the team
+- Advertisement on Twitter for social media/marketing volunteers
 
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
