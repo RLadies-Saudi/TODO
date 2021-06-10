@@ -2,7 +2,9 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-In this repository, we document the steps and TODO list/suggestions for RLadies Chapter in Saudi Arabia (Dammam)
+In this repository, we document the steps and TODO list/suggestions for RLadies Chapter in Saudi Arabia (Dammam).
+
+Some materials are avaialble on [Google Drive](https://drive.google.com/drive/folders/1lTsYgL7kiyupsUHSIxFn9GXMjaAsnyg1?usp=sharing).
 
 #### TODO
 - Build a background for Zoom
